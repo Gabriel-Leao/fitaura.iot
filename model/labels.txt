@@ -1,0 +1,6 @@
+Beans
+Bread
+Chicken
+French Fries
+Rice
+Steak

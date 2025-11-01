@@ -1,0 +1,48 @@
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# ===== ENVIRONMENTS =====
+venv/
+env/
+.venv/
+ENV/
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
+
+# ===== NOTEBOOKS / CACHE =====
+.ipynb_checkpoints
+*.log
+
+# ===== MODEL FILES (OPTIONAL) =====
+# Caso queira deixar o modelo local, comente a linha abaixo.
+# keras_model.h5
+
+# ===== LARGE FILES / TEMP DATA =====
+*.tmp
+*.bak
+*.npy
+*.npz
+
+# ===== OTHERS =====
+__MACOSX/
+
+mise.toml
