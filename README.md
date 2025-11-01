@@ -1,4 +1,4 @@
-# Food Recognition with Teachable Machine and TensorFlow
+# FITAURA
 
 ## Objetivo
 
